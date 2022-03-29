@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moaz-COE
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CS50x
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript & React JS
+- 💞️ I’m working on computerizer website project
 - 📫 How to reach me Via twitter @Moath393
 
 <!---
