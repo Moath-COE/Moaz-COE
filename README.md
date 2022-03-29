@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moaz-COE
+- 👋 Hi, I’m @Moath-COE
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript & React JS
 - 💞️ I’m working on computerizer website project
